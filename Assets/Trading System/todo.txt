@@ -1,0 +1,9 @@
+Tables:
+All trade table: saves both posted + bought trades, data never deleted
+Trade table: only current posted trades, delete data on cancellation/time over/completed
+
+For showing guild name in trade 
+/* 
+ @Api: /common.php?tag=fetchPlayerReqData
+ @postParam: user_id(encryped), device_id, player_id
+ */

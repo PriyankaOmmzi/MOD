@@ -1,0 +1,9 @@
+237,Ugton,Legendary
+240,Duel Wielder,Legendary
+242,Gamnus,Legendary
+245,Seldir,Legendary
+274,Siren,Legendary
+277,Elous,Legendary
+278,Relo,Legendary
+279,Itlous,Legendary
+282,Kavthys,Legendary

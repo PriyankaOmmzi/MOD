@@ -1,0 +1,11 @@
+231,Ifelia,Mega
+236,Qedar,Mega
+238,Arena,Mega
+239,Chimera,Mega
+241,Afldir,Mega
+244,Lava Monster,Mega
+269,Avmera,Mega
+272,Qedite,Mega
+280,Gogeyar,Mega
+281,Tifva,Mega
+284,Rymton,Mega
